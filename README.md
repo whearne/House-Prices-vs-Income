@@ -5,7 +5,7 @@ This project analyses the relationship between house prices and income for first
 ## Project Overview
 In this project, I examined how house prices and income levels for first-time buyers have evolved, focusing on the disparity between the two. The primary objective of the dashboard is to give users a clear view of the house price to income ratio and provide insights into how this ratio affects the affordability for new homeowners.
 
-[View the Tableau Dashboard here](https://public.tableau.com/app/profile/william.hearne/viz/HousePricesvsIncomefirsttimebuyers/Dashboard1).
+[View the Tableau Dashboard here](https://public.tableau.com/app/profile/william.hearne/viz/AreHousePricesSurgingAheadofIncomeARegionalComparisonAcrossEnglandandWales_/Dashboard1).
 
 
 
